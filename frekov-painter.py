@@ -87,9 +87,8 @@ class Frekov:
                 painting (Image): new painting with background and new shapes.
         """
         shape_data = self.turn_to_shape(components)
-        painting = Image.new("RGB", (1600, 1925), (58, 41, 59))
+        painting = Image.new("RGB", (1600, 1925), (10, 84, 119))
         height, width = painting.size
-        print("height: ", height)
         int(height)
         thumbnail_height = int(height)//len(shape_data)
         i = 0

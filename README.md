@@ -1,6 +1,18 @@
 # Frekov
  Frekov is an application of the Markov chain model to Suzan Frecon's paintings.
 
+To set up and run the code, you can manually choose a background color from the lists of
+background colors at the top of the file. Currently, the program is hard-coded with 
+background_1, a beautiful deep blue color. If you'd like to choose a different background
+color, refer to the backgrounds in assets - these file names align with the dictionary
+keys in BACKGROUND_COLORS. Copy and paste the three integers into line 89, where you
+currently see three integers (these are the RGB values for the newly generated background).
+Once you've chosen your background colors, feel free to adjust the "current_shape" 
+and "shape_count" variables in main - these refer to the number of shapes the program will 
+choose to "paint" onto the background and the shape the Markov chain will start on. Once 
+you've chosen these parameters and set thim into place, run the code and create a Frekov 
+painting!
+
 I have loved Suzan Frecon's paintings for a while now. A Brooklyn Rail interview with
 her starts with this Julia Kristeva quote from *Giotto's Joy*: "How can we find our way 
 through what separates words from what is both without a name and more than a name: 
