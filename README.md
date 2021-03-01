@@ -9,9 +9,10 @@ keys in BACKGROUND_COLORS. Copy and paste the three integers into line 89, where
 currently see three integers (these are the RGB values for the newly generated background).
 Once you've chosen your background colors, feel free to adjust the "current_shape" 
 and "shape_count" variables in main - these refer to the number of shapes the program will 
-choose to "paint" onto the background and the shape the Markov chain will start on. Once 
-you've chosen these parameters and set thim into place, run the code and create a Frekov 
-painting!
+choose to "paint" onto the background and the shape the Markov chain will start on. Lastly,
+depending on your IDE, move the image files from "assets" into a folder the IDE can read.
+Once you've chosen these parameters and set thim into place, run the code and create a 
+Frekov painting!
 
 I have loved Suzan Frecon's paintings for a while now. A Brooklyn Rail interview with
 her starts with this Julia Kristeva quote from *Giotto's Joy*: "How can we find our way 
