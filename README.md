@@ -44,14 +44,3 @@ shapes, use random to create f-strings that call different backgrounds (listed i
 background_1.jpg, etc.). It would look something like this: f"background_{random.randint(1,3)}". 
 I think I can do this with treating the global variables of background colors as tuples. For a
 future day!
-
-
-I would say this system is relatively creative. It's not as *innovative* as I'd like it to be,
-but I think it's pretty novel. Looking back over my code, I realize how closely I followed
-the markov_musician example Prof. Harmon offered for the class. Still, I think this code is
-creative in its application of shapes and backgrounds - quite literally, the program creates
-collages based on an existing artist's work. I also think the code is creative in the ways it
-uses space. 
-
-Sources: I used some posts on Stack Overflow, Kim Hancock talked through some of the earlier 
-parts of the project with me, and I'd like to thank my roommates for putting up with me this week.
