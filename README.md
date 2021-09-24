@@ -1,5 +1,7 @@
 # Frekov
  Frekov is an application of the Markov chain model to Suzan Frecon's paintings.
+ 
+# How to Run
 
 To set up and run the code, you can manually choose a background color from the lists of
 background colors at the top of the file. Currently, the program is hard-coded with 
@@ -13,6 +15,8 @@ choose to "paint" onto the background and the shape the Markov chain will start 
 depending on your IDE, move the image files from "assets" into a folder the IDE can read.
 Once you've chosen these parameters and set thim into place, run the code and create a 
 Frekov painting!
+
+# Why Frecon? Why Markov?
 
 I have loved Suzan Frecon's paintings for a while now. A Brooklyn Rail interview with
 her starts with this Julia Kristeva quote from *Giotto's Joy*: "How can we find our way 
@@ -29,12 +33,16 @@ shapes. When I first learned about this project, my mind immediately jumped to h
 could I create a program inspired by her paintings, these somewhat iterative, gorgeous works
 of art? 
 
+# Some Reflections on Learning
+
 This project has been very challenging and quite rewarding. I have learned a *lot* of 
 python in a relatively short period of time (about a week), reverse engineered a program,
 and spent many hours debugging. Most importantly, I have spent many hours thinking about what
 computional creativity looks like. I learned about ints, tuples, dictionaries, debugged a lot,
 learned about docstring and other python style guides. I pushed myself outside my comfort zone
 by taking on a project that was much more intense than I was expecting. 
+
+# Future Thoughts
 
 For a future project, I would like to create a program that generates titles for these
 new Frekov images. For instance, frecon-1 (in assets) is called "mars indigo." I would also
